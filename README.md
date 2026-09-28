@@ -26,14 +26,7 @@ My goal is to become a skilled Data Engineer capable of designing and developing
 
 ### Data Engineering & Big Data
 
-<p align="left">
-![ETL/ELT](https://img.shields.io/badge/ETL%2FELT-007ACC?style=for-the-badge&logo=data&logoColor=white)
-![SSIS](https://img.shields.io/badge/SSIS-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Big Data](https://img.shields.io/badge/Big_Data-6B21A8?style=for-the-badge)
-![Apache Hadoop](https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
-![Data Warehousing](https://img.shields.io/badge/Data_Warehousing-1F618D?style=for-the-badge)
-![Data Modeling](https://img.shields.io/badge/Data_Modeling-117A65?style=for-the-badge)
+<p align="left"><img src="https://img.shields.io/badge/ETL%2FELT-2E86C1?style=for-the-badge" /> <img src="https://img.shields.io/badge/Big%20Data-6C3483?style=for-the-badge" /> <img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" /> <img src="https://img.shields.io/badge/Data%20Warehousing-2874A6?style=for-the-badge" /> <img src="https://img.shields.io/badge/Data%20Modeling-117A65?style=for-the-badge" />
 </p>
 
 ### Programming & Databases
